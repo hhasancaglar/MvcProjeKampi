@@ -16,7 +16,8 @@ namespace MvcProjeKampi.Controllers
             var rslt1 = c.Categories.Count();
             var rslt2 = c.Headings.Count(x => x.Category.CategoryID == 4011);
             var rslt3 = c.Writers.Count(x => x.WriterName.Contains("a"));
-            var rslt4 = c.Headings.Max(x => x.Category.CategoryName);
+            var rslt4 = c.Categories.Where(p => p.CategoryID == c.Headings.GroupBy(x => x.CategoryID).OrderByDescending(x => x.Count())
+                .Select(x => x.Key).FirstOrDefault()).Select(x => x.CategoryName).FirstOrDefault();
             var rslt5 = c.Categories.Count(x => x.CategoryStatus == true);
             var rslt6 = c.Categories.Count(x => x.CategoryStatus == false);
 
