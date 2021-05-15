@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<div class="d-flex row text-center">
+
+    <div class="col-sm-4">
+        <div class="card bg-cyan" style="margin: 4px">
+            <div class="card-header bg-dark text-center">
+                <h4 class="card-title">Toplam Kategori Sayısı</h4>
+            </div>
+            <div class="card-body">
+                <p class="card-text">@ViewBag.CategoryCount</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-4">
+        <div class="card bg-cyan" style="margin: 4px">
+            <div class="card-header bg-dark text-center">
+                <h4 class="card-title">'Yazılım' Kategorisine Ait Başlık Sayısı</h4>
+            </div>
+            <div class="card-body">
+                <p class="card-text">@ViewBag.Heading</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-4">
+        <div class="card bg-cyan" style="margin: 4px">
+            <div class="card-header bg-dark text-center">
+                <h4 class="card-title">Yazar Adında 'A' Harfi Geçen Yazar Sayısı</h4>
+            </div>
+            <div class="card-body">
+                <p class="card-text">@ViewBag.Writer</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-4">
+        <div class="card bg-cyan" style="margin: 4px">
+            <div class="card-header bg-dark text-center">
+                <h4 class="card-title">En Fazla Başlığa Sahip Kategori Adı</h4>
+            </div>
+            <div class="card-body"> 
+                <p class="card-text">@ViewBag.MaxHeading</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-4">
+        <div class="card bg-cyan" style="margin: 4px">
+            <div class="card-header bg-dark text-center">
+                <h4 class="card-title">Kategori Durumu True-False Arasındaki Fark </h4>
+            </div>
+            <div class="card-body">
+                <p class="card-text">@ViewBag.Status</p>
+            </div>
+        </div>
+    </div>
+</div>
+
