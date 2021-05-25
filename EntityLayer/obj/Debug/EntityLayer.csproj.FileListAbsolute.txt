@@ -10,3 +10,15 @@ C:\Users\AKDENİZ STORY\Source\Repos\EntityLayer\obj\Debug\EntityLayer.csproj.Co
 C:\Users\AKDENİZ STORY\Source\Repos\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
 C:\Users\AKDENİZ STORY\Source\Repos\EntityLayer\obj\Debug\EntityLayer.dll
 C:\Users\AKDENİZ STORY\Source\Repos\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb

@@ -32,3 +32,9 @@ C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug
 C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contentstatusadd.resources
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatusadd.resources
