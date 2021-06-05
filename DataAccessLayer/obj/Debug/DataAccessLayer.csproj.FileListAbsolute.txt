@@ -38,3 +38,4 @@ C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug
 C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
 C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contentstatusadd.resources
 C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatusadd.resources
+C:\Users\AKDENİZ STORY\Documents\GitHub\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_message.resources
